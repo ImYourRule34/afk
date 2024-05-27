@@ -1,0 +1,10 @@
+{
+    "predefined": {
+        "wasd": ["w", "a", "s", "d"],
+        "spacebar": ["space"],
+        "mouse": ["mouse_movement", "mouse_click"]
+    },
+    "custom": [
+        {"keys": ["e", "r", "t"], "delay": [1, 2]}
+    ]
+}
